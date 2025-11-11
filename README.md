@@ -14,12 +14,13 @@
 
 6) Classes in Python  
 
-7) Python OOP Backend + MySQL database
+7) Project #01: Python OOP Backend + MySQL database
 
-8) Project #01: Numerical Method of Newton Cotes
+8) Project #02: Numerical Method of Newton Cotes
    
 
 ### Class Materials   
 
 Link Google Drive Repository:  
+  
 https://drive.google.com/drive/folders/1J90QfvM4oEZSRiLYf7KmHxlaBiSDYznC?usp=sharing 
