@@ -14,7 +14,10 @@
 
 6) Classes in Python  
 
+7) Python OOP Backend + MySQL database
 
+8) Project #01: Numerical Method of Newton Cotes
+   
 
 ### Class Materials   
 
