@@ -14,10 +14,10 @@
 
 6) Classes in Python  
 
-7) Project #01: Python OOP Backend + MySQL database
-  
-<img width="848" height="672" alt="image" src="https://github.com/user-attachments/assets/9a687162-86fa-45a8-9020-c3fe862d8dc4" />
-  
+7) Project #01: Python OOP Backend + MySQL database  
+   
+<img width="848" height="672" alt="image" src="https://github.com/user-attachments/assets/9a687162-86fa-45a8-9020-c3fe862d8dc4" />   
+   
 8) Project #02: Numerical Method Algorithm of Newton Cotes
    
 
